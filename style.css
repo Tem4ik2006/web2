@@ -111,6 +111,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+.image-map{
+    width: 50%;
+}
 
 /* Используем Flex Box order для изменения порядка отображения */
 .links-section {
